@@ -33,5 +33,5 @@ Implement the mobile application based on Flutter/Dart for iOS & Android platfor
 ## How to complete the task
 - create a new public repo on GitHub;
 - develop the application according to the requirements;
-- if you don't see something in the design, you can implement this functionality in UI just with your vision and understanding
-- send us the link to your repo.
+- if you don't see something in the design, you can implement this functionality in UI just with your vision and understanding;
+- send us the link to your repo, attached screenshots and/or video demonstrations will be a plus.
