@@ -1,6 +1,6 @@
 # Hogwarts Sorting Magic Hat Mobile Application
 
-Implement the mobile application based on React-Native for iOS & Android platforms that gives users the ability to guess the relationship between characters and Houses in a similar way to what Magic Hat did in Wizarding World. 
+Implement the mobile application based on React-Native/TypeScript for iOS & Android platforms that gives users the ability to guess the relationship between characters and Houses in a similar way to what Magic Hat did in Wizarding World. 
 
 > API: https://hp-api.onrender.com
 
