@@ -1,6 +1,6 @@
 # Hogwarts Sorting Magic Hat Mobile Application
 
-Implement the mobile application based on Flutter/Dart for iOS & Android platforms that gives users the ability to guess the relationship between characters and Houses in a similar way to what Magic Hat did in Wizarding World. 
+Implement the mobile application based on React-Native for iOS & Android platforms that gives users the ability to guess the relationship between characters and Houses in a similar way to what Magic Hat did in Wizarding World. 
 
 > API: https://hp-api.onrender.com
 
@@ -29,6 +29,7 @@ Implement the mobile application based on Flutter/Dart for iOS & Android platfor
 - project structure: how you structure your files;
 - code quality: how you write clean, readable code;
 - knowledge of technologies and their ecosystem: how you compose and use packages together;
+- it will be a plus if you configure and use ESlint in your project
 
 ## How to complete the task
 - create a new public repo on GitHub;
